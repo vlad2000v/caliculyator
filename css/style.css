@@ -1,0 +1,57 @@
+.box{
+    background-image: url(https://phonoteka.org/uploads/posts/2021-05/1620124622_2-phonoteka_org-p-fon-dlya-prezentatsii-po-bukhgalterskomu-u-2.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.js-input-a{
+    width: 100%;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #e0e0e0; 
+    background-color: transparent;
+    outline: none;
+    transition: 0.3s;
+}
+.js-input-b{
+    width: 100%;
+    padding: 0 0 10px 0;
+    border-bottom: 1px solid #e0e0e0; 
+    background-color: transparent;
+    outline: none;
+    transition: 0.3s;
+}
+.js-select-operation{
+     border: none; 
+    border-radius: 5px; 
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 16xp;
+    color :#fff ; 
+    background-color: #0071f0; 
+    outline: none; 
+    cursor: pointer; 
+    transition: 0.3s;
+}
+.js-btn-result {
+    padding: 10px 20px;
+    border: none; 
+    border-radius: 5px; 
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: 16xp;
+    color :#fff ; 
+    background-color: #0071f0; 
+    outline: none; 
+    cursor: pointer; 
+    transition: 0.3s;
+}
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    gap: 21px;
+    flex-wrap: wrap;
+    align-items: center;
+    
+}
